@@ -42,6 +42,12 @@ With this hack you can completely remove the stress and torture that comes with 
 We could but really our main focus is i-Ready exploits. There is plenty of exploits on GitHub, just check before asking. You can ask & we will keep it as an suggestion.
 </details>
 
+<details>
+  	<summary><b>Is this a countinuation of Nullify?</b></summary>
+
+  ...
+  </details>
+
 <h2 align="center">Misc</h2>
 
 <p align="center">
